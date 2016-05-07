@@ -1,0 +1,1027 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="&lt;12468AB&gt;" />
+    <node id="&lt;02689AB&gt;" />
+    <node id="&lt;01289A&gt;" />
+    <node id="&lt;0129&gt;" />
+    <node id="&lt;0124689B&gt;" />
+    <node id="&lt;148AB&gt;" />
+    <node id="&lt;025789AB&gt;" />
+    <node id="&lt;0269B&gt;" />
+    <node id="&lt;0478AB&gt;" />
+    <node id="&lt;2&gt;" />
+    <node id="&lt;049B&gt;" />
+    <node id="&lt;012469&gt;" />
+    <node id="&lt;0479B&gt;" />
+    <node id="&lt;012689A&gt;" />
+    <node id="&lt;124689AB&gt;" />
+    <node id="&lt;2459B&gt;" />
+    <node id="&lt;02468AB&gt;" />
+    <node id="&lt;2678B&gt;" />
+    <node id="&lt;024689AB&gt;" />
+    <node id="&lt;024689A&gt;" />
+    <node id="&lt;25789AB&gt;" />
+    <node id="&lt;02689A&gt;" />
+    <node id="&lt;23468AB&gt;" />
+    <node id="&lt;246B&gt;" />
+    <node id="&lt;012469B&gt;" />
+    <node id="&lt;248AB&gt;" />
+    <node id="&lt;09&gt;" />
+    <node id="&lt;3&gt;" />
+    <node id="&lt;12689AB&gt;" />
+    <node id="&lt;23578AB&gt;" />
+    <node id="&lt;24589AB&gt;" />
+    <node id="&lt;348AB&gt;" />
+    <node id="&lt;01479&gt;" />
+    <node id="&lt;2589A&gt;" />
+    <node id="&lt;0478A&gt;" />
+    <node id="&lt;0469B&gt;" />
+    <node id="&lt;1268AB&gt;" />
+    <node id="&lt;0147&gt;" />
+    <node id="&lt;12579&gt;" />
+    <node id="&lt;2468AB&gt;" />
+    <node id="&lt;048AB&gt;" />
+    <node id="&lt;01489A&gt;" />
+    <node id="&lt;2368AB&gt;" />
+    <node id="&lt;01469B&gt;" />
+    <node id="&lt;2689B&gt;" />
+    <node id="&lt;01478A&gt;" />
+    <node id="&lt;012689B&gt;" />
+    <node id="&lt;14689AB&gt;" />
+    <node id="&lt;02789A&gt;" />
+    <node id="&lt;12689B&gt;" />
+    <node id="&lt;234689AB&gt;" />
+    <node id="&lt;0145689AB&gt;" />
+    <node id="&lt;4&gt;" />
+    <node id="&lt;0245689AB&gt;" />
+    <node id="&lt;0124689A&gt;" />
+    <node id="&lt;01268AB&gt;" />
+    <node id="&lt;2589AB&gt;" />
+    <node id="&lt;029B&gt;" />
+    <node id="&lt;12469B&gt;" />
+    <node id="&lt;268AB&gt;" />
+    <node id="&lt;0124689AB&gt;" />
+    <node id="&lt;048B&gt;" />
+    <node id="&lt;24689AB&gt;" />
+    <node id="&lt;014589AB&gt;" />
+    <node id="&lt;0458AB&gt;" />
+    <node id="&lt;02589AB&gt;" />
+    <node id="&lt;01268B&gt;" />
+    <node id="&lt;04589AB&gt;" />
+    <node id="&lt;045689AB&gt;" />
+    <node id="&lt;12589A&gt;" />
+    <node id="&lt;1268B&gt;" />
+    <node id="&lt;04689A&gt;" />
+    <node id="&lt;12578AB&gt;" />
+    <node id="&lt;0149&gt;" />
+    <node id="&lt;26B&gt;" />
+    <node id="&lt;148B&gt;" />
+    <node id="&lt;04789B&gt;" />
+    <node id="&lt;01259&gt;" />
+    <node id="&lt;0268AB&gt;" />
+    <node id="&lt;24589A&gt;" />
+    <node id="&lt;049&gt;" />
+    <node id="&lt;0349&gt;" />
+    <node id="&lt;0289AB&gt;" />
+    <node id="&lt;024589AB&gt;" />
+    <node id="&lt;124689B&gt;" />
+    <node id="&lt;014689A&gt;" />
+    <node id="&lt;125789AB&gt;" />
+    <node id="&lt;02478A&gt;" />
+    <node id="&lt;0124589B&gt;" />
+    <node id="&lt;257B&gt;" />
+    <node id="&lt;01469&gt;" />
+    <node id="&lt;02578AB&gt;" />
+    <node id="&lt;012468B&gt;" />
+    <node id="&lt;268B&gt;" />
+    <node id="&lt;0259B&gt;" />
+    <node id="&lt;1246B&gt;" />
+    <node id="&lt;48B&gt;" />
+    <node id="&lt;014589B&gt;" />
+    <node id="&lt;259B&gt;" />
+    <node id="&lt;0289A&gt;" />
+    <node id="&lt;269B&gt;" />
+    <node id="&lt;23689AB&gt;" />
+    <node id="&lt;0489AB&gt;" />
+    <node id="&lt;2357B&gt;" />
+    <node id="&lt;026789AB&gt;" />
+    <node id="null" />
+    <node id="&lt;012579&gt;" />
+    <node id="&lt;01257B&gt;" />
+    <node id="&lt;2578AB&gt;" />
+    <node id="&lt;02589A&gt;" />
+    <node id="&lt;0&gt;" />
+    <node id="&lt;0489B&gt;" />
+    <node id="&lt;04689AB&gt;" />
+    <node id="&lt;02469B&gt;" />
+    <node id="&lt;289A&gt;" />
+    <node id="&lt;2458AB&gt;" />
+    <node id="&lt;0249B&gt;" />
+    <node id="&lt;01279&gt;" />
+    <node id="&lt;2689AB&gt;" />
+    <node id="&lt;12468B&gt;" />
+    <node id="&lt;48AB&gt;" />
+    <node id="&lt;9&gt;" />
+    <node id="&lt;2468B&gt;" />
+    <node id="&lt;047B&gt;" />
+    <node id="&lt;012589A&gt;" />
+    <node id="&lt;0124679&gt;" />
+    <node id="&lt;04689B&gt;" />
+    <node id="&lt;248B&gt;" />
+    <node id="&lt;2469B&gt;" />
+    <node id="&lt;24689B&gt;" />
+    <node id="&lt;2678AB&gt;" />
+    <node id="&lt;0489A&gt;" />
+    <node id="&lt;024589A&gt;" />
+    <edge source="&lt;12468AB&gt;" target="&lt;012468B&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;12468AB&gt;" target="&lt;12468B&gt;">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="&lt;12468AB&gt;" target="&lt;01268B&gt;">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="&lt;12468AB&gt;" target="&lt;1246B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;12468AB&gt;" target="&lt;12468AB&gt;">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="&lt;02689AB&gt;" target="&lt;04689AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;02689AB&gt;" target="&lt;02689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;01289A&gt;" target="&lt;0129&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;01289A&gt;" target="&lt;01279&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0129&gt;" target="&lt;0289A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0129&gt;" target="&lt;02589A&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;0124689B&gt;" target="&lt;024689AB&gt;">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="&lt;148AB&gt;" target="&lt;148B&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;148AB&gt;" target="&lt;148AB&gt;">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="&lt;148AB&gt;" target="&lt;04689AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;025789AB&gt;" target="&lt;02578AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0269B&gt;" target="&lt;02689A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0478AB&gt;" target="&lt;047B&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;2&gt;" target="&lt;0&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;049B&gt;" target="&lt;049&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;049B&gt;" target="&lt;0489A&gt;">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="&lt;012469&gt;" target="&lt;04689A&gt;">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="&lt;012469&gt;" target="&lt;024689A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0479B&gt;" target="&lt;049&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;012689A&gt;" target="&lt;01289A&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;124689AB&gt;" target="&lt;124689B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;124689AB&gt;" target="&lt;12469B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;124689AB&gt;" target="&lt;124689AB&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;124689AB&gt;" target="&lt;012469B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2459B&gt;" target="&lt;2589A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;02468AB&gt;" target="&lt;02468AB&gt;">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="&lt;02468AB&gt;" target="&lt;2468AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;02468AB&gt;" target="&lt;024689AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;02468AB&gt;" target="&lt;04689AB&gt;">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="&lt;02468AB&gt;" target="&lt;24589AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2678B&gt;" target="&lt;2468AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;024689AB&gt;" target="&lt;0478AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;024689AB&gt;" target="&lt;2589AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;024689AB&gt;" target="&lt;02468AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;024689AB&gt;" target="&lt;0489AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;024689AB&gt;" target="&lt;024689AB&gt;">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="&lt;024689AB&gt;" target="&lt;04689AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;024689AB&gt;" target="&lt;02469B&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;024689A&gt;" target="&lt;0124689A&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;024689A&gt;" target="&lt;268AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;024689A&gt;" target="&lt;23578AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;024689A&gt;" target="&lt;2578AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;024689A&gt;" target="&lt;024689A&gt;">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="&lt;024689A&gt;" target="&lt;014689A&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;25789AB&gt;" target="&lt;25789AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;25789AB&gt;" target="&lt;0489AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;02689A&gt;" target="&lt;012689A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;23468AB&gt;" target="&lt;246B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;23468AB&gt;" target="&lt;2468B&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;246B&gt;" target="&lt;02468AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;246B&gt;" target="&lt;2468AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;246B&gt;" target="&lt;246B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;012469B&gt;" target="&lt;024689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;248AB&gt;" target="&lt;248B&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;248AB&gt;" target="&lt;12468AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;09&gt;" target="&lt;0&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;3&gt;" target="&lt;2&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;12689AB&gt;" target="&lt;12689B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;12689AB&gt;" target="&lt;012689B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;12689AB&gt;" target="&lt;12689AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;23578AB&gt;" target="&lt;23578AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;23578AB&gt;" target="&lt;2357B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;24589AB&gt;" target="&lt;2459B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;348AB&gt;" target="&lt;248AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;348AB&gt;" target="&lt;348AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;01479&gt;" target="&lt;04689A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2589A&gt;" target="&lt;12589A&gt;">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="&lt;0478A&gt;" target="&lt;01478A&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;0469B&gt;" target="&lt;04689A&gt;">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="&lt;1268AB&gt;" target="&lt;1268AB&gt;">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="&lt;1268AB&gt;" target="&lt;1268B&gt;">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="&lt;1268AB&gt;" target="&lt;12689B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;1268AB&gt;" target="&lt;01268B&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;0147&gt;" target="&lt;02478A&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;12579&gt;" target="&lt;2589AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;12579&gt;" target="&lt;24589A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2468AB&gt;" target="&lt;2468B&gt;">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="&lt;2468AB&gt;" target="&lt;268AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2468AB&gt;" target="&lt;2468AB&gt;">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="&lt;2468AB&gt;" target="&lt;0124689AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;2468AB&gt;" target="&lt;24689AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;2468AB&gt;" target="&lt;246B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2468AB&gt;" target="&lt;04689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2468AB&gt;" target="&lt;12468AB&gt;">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="&lt;048AB&gt;" target="&lt;048AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;048AB&gt;" target="&lt;0145689AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;048AB&gt;" target="&lt;14689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;048AB&gt;" target="&lt;048B&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;048AB&gt;" target="&lt;04689AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;01489A&gt;" target="&lt;0149&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;01489A&gt;" target="&lt;01479&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2368AB&gt;" target="&lt;26B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2368AB&gt;" target="&lt;268B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;01469B&gt;" target="&lt;04689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2689B&gt;" target="&lt;2468AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2689B&gt;" target="&lt;268AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2689B&gt;" target="&lt;2689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;01478A&gt;" target="&lt;0147&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;01478A&gt;" target="&lt;01478A&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;012689B&gt;" target="&lt;02689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;14689AB&gt;" target="&lt;148AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;02789A&gt;" target="&lt;02789A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;02789A&gt;" target="&lt;024689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;12689B&gt;" target="&lt;02468AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;12689B&gt;" target="&lt;24689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;234689AB&gt;" target="&lt;2469B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0145689AB&gt;" target="&lt;014589AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;4&gt;" target="&lt;3&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0245689AB&gt;" target="&lt;024589AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0124689A&gt;" target="&lt;0124679&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0124689A&gt;" target="&lt;012469&gt;">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="&lt;0124689A&gt;" target="&lt;0124689A&gt;">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="&lt;01268AB&gt;" target="&lt;01268AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;01268AB&gt;" target="&lt;01268B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2589AB&gt;" target="&lt;259B&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;2589AB&gt;" target="&lt;02589AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;2589AB&gt;" target="&lt;2589AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;029B&gt;" target="&lt;0289A&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;12469B&gt;" target="&lt;24689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;268AB&gt;" target="&lt;1268AB&gt;">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="&lt;268AB&gt;" target="&lt;268B&gt;">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="&lt;268AB&gt;" target="&lt;268AB&gt;">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="&lt;268AB&gt;" target="&lt;12689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;268AB&gt;" target="&lt;0124689AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;268AB&gt;" target="&lt;26B&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;268AB&gt;" target="&lt;0489AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;268AB&gt;" target="&lt;04689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;268AB&gt;" target="&lt;04789B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0124689AB&gt;" target="&lt;0124689B&gt;">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="&lt;0124689AB&gt;" target="&lt;0124689AB&gt;">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="&lt;048B&gt;" target="&lt;048AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;048B&gt;" target="&lt;0458AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;24689AB&gt;" target="&lt;2468AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;24689AB&gt;" target="&lt;2469B&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;24689AB&gt;" target="&lt;24689AB&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;24689AB&gt;" target="&lt;24689B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;24689AB&gt;" target="&lt;0489AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;24689AB&gt;" target="&lt;124689AB&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;014589AB&gt;" target="&lt;014589B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;014589AB&gt;" target="&lt;0124589B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0458AB&gt;" target="&lt;048AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;02589AB&gt;" target="&lt;0259B&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;01268B&gt;" target="&lt;1268B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;01268B&gt;" target="&lt;0268AB&gt;">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="&lt;04589AB&gt;" target="&lt;48AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;045689AB&gt;" target="&lt;04589AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;12589A&gt;" target="&lt;012579&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;12589A&gt;" target="&lt;12589A&gt;">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="&lt;12589A&gt;" target="&lt;12579&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;1268B&gt;" target="&lt;0268AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;1268B&gt;" target="&lt;2689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;1268B&gt;" target="&lt;268AB&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;04689A&gt;" target="&lt;0268AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;04689A&gt;" target="&lt;04689A&gt;">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="&lt;04689A&gt;" target="&lt;0124689A&gt;">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="&lt;04689A&gt;" target="&lt;268AB&gt;">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="&lt;04689A&gt;" target="&lt;2468AB&gt;">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="&lt;04689A&gt;" target="&lt;23689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;04689A&gt;" target="&lt;2368AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;04689A&gt;" target="&lt;2689AB&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;04689A&gt;" target="&lt;24689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;04689A&gt;" target="&lt;02468AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;04689A&gt;" target="&lt;2678AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;04689A&gt;" target="&lt;0489A&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;04689A&gt;" target="&lt;23468AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;04689A&gt;" target="&lt;014689A&gt;">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="&lt;12578AB&gt;" target="&lt;01257B&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;0149&gt;" target="&lt;04689A&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;26B&gt;" target="&lt;268AB&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;148B&gt;" target="&lt;348AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;04789B&gt;" target="&lt;0479B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;01259&gt;" target="&lt;02589A&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;0268AB&gt;" target="&lt;0268AB&gt;">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="&lt;0268AB&gt;" target="&lt;268B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0268AB&gt;" target="&lt;02689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0268AB&gt;" target="&lt;01268AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0268AB&gt;" target="&lt;0489AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0268AB&gt;" target="&lt;04689AB&gt;">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="&lt;24589A&gt;" target="&lt;2589AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;24589A&gt;" target="&lt;24589A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;049&gt;" target="&lt;049&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;049&gt;" target="&lt;049B&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;049&gt;" target="null">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;049&gt;" target="&lt;0349&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0349&gt;" target="&lt;049&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0289AB&gt;" target="&lt;029B&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;024589AB&gt;" target="&lt;48AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;124689B&gt;" target="&lt;02468AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;124689B&gt;" target="&lt;124689B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;014689A&gt;" target="&lt;01489A&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;014689A&gt;" target="&lt;01469&gt;">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="&lt;014689A&gt;" target="&lt;014689A&gt;">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="&lt;125789AB&gt;" target="&lt;12578AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;02478A&gt;" target="&lt;026789AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;02478A&gt;" target="&lt;02478A&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;02478A&gt;" target="&lt;0289AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0124589B&gt;" target="&lt;0245689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;257B&gt;" target="&lt;2578AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;01469&gt;" target="&lt;04689A&gt;">
+      <data key="d0">23</data>
+    </edge>
+    <edge source="&lt;01469&gt;" target="&lt;01469B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;01469&gt;" target="&lt;024689A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;01469&gt;" target="&lt;01469&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;02578AB&gt;" target="&lt;0489AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;012468B&gt;" target="&lt;02468AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;268B&gt;" target="&lt;2468AB&gt;">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="&lt;268B&gt;" target="&lt;2689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;268B&gt;" target="&lt;268AB&gt;">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="&lt;268B&gt;" target="&lt;0268AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0259B&gt;" target="&lt;02589A&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;1246B&gt;" target="&lt;2468AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;48B&gt;" target="&lt;048AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;48B&gt;" target="&lt;48AB&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;014589B&gt;" target="&lt;045689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;259B&gt;" target="&lt;2589A&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;0289A&gt;" target="&lt;289A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0289A&gt;" target="&lt;48AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;0289A&gt;" target="&lt;012689A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0289A&gt;" target="&lt;012589A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;269B&gt;" target="&lt;268AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;23689AB&gt;" target="&lt;2689B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0489AB&gt;" target="&lt;0249B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0489AB&gt;" target="&lt;0489AB&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;0489AB&gt;" target="&lt;049B&gt;">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="&lt;0489AB&gt;" target="&lt;0489B&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;2357B&gt;" target="&lt;2578AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;026789AB&gt;" target="&lt;0269B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="null" target="&lt;9&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;012579&gt;" target="&lt;024589A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;01257B&gt;" target="&lt;25789AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;01257B&gt;" target="&lt;025789AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2578AB&gt;" target="&lt;125789AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;2578AB&gt;" target="&lt;257B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2578AB&gt;" target="&lt;2578AB&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;02589A&gt;" target="&lt;02589A&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;02589A&gt;" target="&lt;0289AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;02589A&gt;" target="&lt;0289A&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;02589A&gt;" target="&lt;02589AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;02589A&gt;" target="&lt;012589A&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;0&gt;" target="&lt;9&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0&gt;" target="&lt;0489AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0489B&gt;" target="&lt;0489A&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;04689AB&gt;" target="&lt;0469B&gt;">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="&lt;04689AB&gt;" target="&lt;04689A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;04689AB&gt;" target="&lt;048AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;04689AB&gt;" target="&lt;04689B&gt;">
+      <data key="d0">19</data>
+    </edge>
+    <edge source="&lt;04689AB&gt;" target="&lt;04689AB&gt;">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="&lt;02469B&gt;" target="&lt;024689A&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;289A&gt;" target="&lt;024689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2458AB&gt;" target="&lt;048AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;2458AB&gt;" target="&lt;2458AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;0249B&gt;" target="&lt;0489A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;01279&gt;" target="&lt;02789A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2689AB&gt;" target="&lt;1268AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2689AB&gt;" target="&lt;12689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2689AB&gt;" target="&lt;2689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2689AB&gt;" target="&lt;269B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2689AB&gt;" target="&lt;2678AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2689AB&gt;" target="&lt;2689B&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;12468B&gt;" target="&lt;02468AB&gt;">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="&lt;12468B&gt;" target="&lt;12468B&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;12468B&gt;" target="&lt;2458AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;48AB&gt;" target="&lt;48AB&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;48AB&gt;" target="&lt;48B&gt;">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="&lt;48AB&gt;" target="&lt;14689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;48AB&gt;" target="&lt;148AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;9&gt;" target="&lt;09&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;9&gt;" target="&lt;4&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2468B&gt;" target="&lt;2468AB&gt;">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="&lt;2468B&gt;" target="&lt;2468B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2468B&gt;" target="&lt;24689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;047B&gt;" target="&lt;0478A&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;012589A&gt;" target="&lt;01289A&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;012589A&gt;" target="&lt;01259&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;012589A&gt;" target="&lt;012589A&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;0124679&gt;" target="&lt;024689A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;04689B&gt;" target="&lt;04689A&gt;">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="&lt;04689B&gt;" target="&lt;04689B&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;04689B&gt;" target="&lt;024689A&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;248B&gt;" target="&lt;248AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;2469B&gt;" target="&lt;2468AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2469B&gt;" target="&lt;24689AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;24689B&gt;" target="&lt;2468B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2678AB&gt;" target="&lt;2678B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;2678AB&gt;" target="&lt;04689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0489A&gt;" target="&lt;234689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0489A&gt;" target="&lt;23468AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0489A&gt;" target="&lt;24689AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0489A&gt;" target="&lt;014689A&gt;">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="&lt;0489A&gt;" target="&lt;0489A&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;024589A&gt;" target="&lt;024589A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;024589A&gt;" target="&lt;2589AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>

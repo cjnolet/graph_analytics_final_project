@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="&lt;3A&gt;" />
+    <node id="&lt;03A&gt;" />
+    <node id="&lt;06&gt;" />
+    <node id="&lt;036&gt;" />
+    <node id="null" />
+    <node id="&lt;036AB&gt;" />
+    <node id="&lt;A&gt;" />
+    <node id="&lt;0&gt;" />
+    <node id="&lt;136B&gt;" />
+    <node id="&lt;6&gt;" />
+    <node id="&lt;0136B&gt;" />
+    <node id="&lt;03B&gt;" />
+    <node id="&lt;03&gt;" />
+    <node id="&lt;13&gt;" />
+    <node id="&lt;036B&gt;" />
+    <node id="&lt;36&gt;" />
+    <node id="&lt;0AB&gt;" />
+    <node id="&lt;0136&gt;" />
+    <node id="&lt;03AB&gt;" />
+    <node id="&lt;3&gt;" />
+    <node id="&lt;136A&gt;" />
+    <node id="&lt;013&gt;" />
+    <node id="&lt;136&gt;" />
+    <node id="&lt;06B&gt;" />
+    <edge source="&lt;3A&gt;" target="&lt;3&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;3A&gt;" target="&lt;A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;3A&gt;" target="&lt;036AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;03A&gt;" target="&lt;013&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;03A&gt;" target="&lt;03&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;06&gt;" target="&lt;06B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;036&gt;" target="&lt;036B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="null" target="&lt;6&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;036AB&gt;" target="&lt;036B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;036AB&gt;" target="&lt;03AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;036AB&gt;" target="&lt;036AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;A&gt;" target="&lt;3A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0&gt;" target="&lt;6&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;136B&gt;" target="&lt;136&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;6&gt;" target="&lt;0&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;6&gt;" target="&lt;6&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;6&gt;" target="&lt;06&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0136B&gt;" target="&lt;0136B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0136B&gt;" target="&lt;06B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;03B&gt;" target="&lt;136B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;03&gt;" target="&lt;3&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;13&gt;" target="&lt;3&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;13&gt;" target="&lt;136A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;13&gt;" target="&lt;13&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;036B&gt;" target="&lt;36&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;036B&gt;" target="&lt;0AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;36&gt;" target="&lt;036&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0AB&gt;" target="&lt;0AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0AB&gt;" target="&lt;03A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0136&gt;" target="&lt;0136B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;03AB&gt;" target="&lt;03B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;03AB&gt;" target="&lt;03A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;3&gt;" target="&lt;13&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;3&gt;" target="&lt;3A&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;136A&gt;" target="&lt;136A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;136A&gt;" target="&lt;036AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;013&gt;" target="&lt;13&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;136&gt;" target="&lt;0136&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;06B&gt;" target="&lt;06B&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;06B&gt;" target="null">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;06B&gt;" target="&lt;036AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>

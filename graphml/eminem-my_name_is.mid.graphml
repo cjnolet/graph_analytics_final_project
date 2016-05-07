@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d0" />
+  <graph edgedefault="directed">
+    <node id="&lt;68&gt;" />
+    <node id="&lt;2A&gt;" />
+    <node id="&lt;568B&gt;" />
+    <node id="&lt;567B&gt;" />
+    <node id="&lt;46&gt;" />
+    <node id="&lt;8&gt;" />
+    <node id="null" />
+    <node id="&lt;69AB&gt;" />
+    <node id="&lt;68AB&gt;" />
+    <node id="&lt;A&gt;" />
+    <node id="&lt;08&gt;" />
+    <node id="&lt;469&gt;" />
+    <node id="&lt;0A&gt;" />
+    <node id="&lt;0&gt;" />
+    <node id="&lt;6&gt;" />
+    <node id="&lt;03&gt;" />
+    <node id="&lt;67B&gt;" />
+    <node id="&lt;68B&gt;" />
+    <node id="&lt;59&gt;" />
+    <node id="&lt;068AB&gt;" />
+    <node id="&lt;9&gt;" />
+    <node id="&lt;7B&gt;" />
+    <node id="&lt;5&gt;" />
+    <node id="&lt;56B&gt;" />
+    <node id="&lt;7&gt;" />
+    <node id="&lt;6AB&gt;" />
+    <node id="&lt;6B&gt;" />
+    <node id="&lt;0568B&gt;" />
+    <node id="&lt;4569&gt;" />
+    <edge source="&lt;68&gt;" target="&lt;6&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;2A&gt;" target="&lt;46&gt;">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="&lt;2A&gt;" target="&lt;A&gt;">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="&lt;2A&gt;" target="&lt;2A&gt;">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="&lt;568B&gt;" target="&lt;56B&gt;">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="&lt;568B&gt;" target="&lt;5&gt;">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="&lt;567B&gt;" target="&lt;67B&gt;">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="&lt;567B&gt;" target="&lt;7&gt;">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="&lt;46&gt;" target="&lt;68AB&gt;">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="&lt;46&gt;" target="&lt;A&gt;">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="&lt;46&gt;" target="&lt;568B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;46&gt;" target="&lt;0&gt;">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="&lt;46&gt;" target="&lt;567B&gt;">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="&lt;46&gt;" target="&lt;8&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;46&gt;" target="&lt;9&gt;">
+      <data key="d0">38</data>
+    </edge>
+    <edge source="&lt;46&gt;" target="&lt;69AB&gt;">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="&lt;46&gt;" target="&lt;5&gt;">
+      <data key="d0">38</data>
+    </edge>
+    <edge source="&lt;8&gt;" target="null">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;8&gt;" target="&lt;08&gt;">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="&lt;8&gt;" target="&lt;469&gt;">
+      <data key="d0">23</data>
+    </edge>
+    <edge source="&lt;8&gt;" target="&lt;56B&gt;">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="&lt;8&gt;" target="&lt;46&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;8&gt;" target="&lt;6&gt;">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="&lt;8&gt;" target="&lt;568B&gt;">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="null" target="&lt;56B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;69AB&gt;" target="&lt;A&gt;">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="&lt;69AB&gt;" target="&lt;6AB&gt;">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="&lt;68AB&gt;" target="&lt;8&gt;">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="&lt;68AB&gt;" target="&lt;68B&gt;">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="&lt;A&gt;" target="&lt;68AB&gt;">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="&lt;A&gt;" target="&lt;A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;A&gt;" target="&lt;2A&gt;">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="&lt;A&gt;" target="&lt;68B&gt;">
+      <data key="d0">19</data>
+    </edge>
+    <edge source="&lt;A&gt;" target="&lt;46&gt;">
+      <data key="d0">40</data>
+    </edge>
+    <edge source="&lt;A&gt;" target="&lt;8&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;08&gt;" target="&lt;68&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;08&gt;" target="&lt;56B&gt;">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="&lt;08&gt;" target="&lt;0&gt;">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="&lt;08&gt;" target="&lt;0568B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;08&gt;" target="&lt;8&gt;">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="&lt;08&gt;" target="&lt;6&gt;">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="&lt;08&gt;" target="&lt;568B&gt;">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="&lt;469&gt;" target="&lt;0&gt;">
+      <data key="d0">23</data>
+    </edge>
+    <edge source="&lt;0A&gt;" target="&lt;068AB&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0A&gt;" target="&lt;68AB&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;0A&gt;" target="&lt;A&gt;">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="&lt;0A&gt;" target="&lt;68B&gt;">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="&lt;0&gt;" target="&lt;68AB&gt;">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="&lt;0&gt;" target="&lt;A&gt;">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="&lt;0&gt;" target="&lt;08&gt;">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="&lt;0&gt;" target="&lt;0A&gt;">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="&lt;0&gt;" target="&lt;0&gt;">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="&lt;0&gt;" target="&lt;68B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0&gt;" target="&lt;8&gt;">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="&lt;0&gt;" target="&lt;9&gt;">
+      <data key="d0">23</data>
+    </edge>
+    <edge source="&lt;0&gt;" target="&lt;6&gt;">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="&lt;0&gt;" target="&lt;568B&gt;">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="&lt;6&gt;" target="&lt;4569&gt;">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="&lt;03&gt;" target="&lt;9&gt;">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="&lt;67B&gt;" target="&lt;7B&gt;">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="&lt;67B&gt;" target="&lt;7&gt;">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="&lt;68B&gt;" target="&lt;8&gt;">
+      <data key="d0">30</data>
+    </edge>
+    <edge source="&lt;68B&gt;" target="&lt;6B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;68B&gt;" target="&lt;08&gt;">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="&lt;59&gt;" target="&lt;46&gt;">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="&lt;59&gt;" target="&lt;59&gt;">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="&lt;59&gt;" target="&lt;5&gt;">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="&lt;068AB&gt;" target="&lt;68B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;9&gt;" target="&lt;0&gt;">
+      <data key="d0">31</data>
+    </edge>
+    <edge source="&lt;9&gt;" target="&lt;69AB&gt;">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="&lt;9&gt;" target="&lt;A&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;9&gt;" target="&lt;08&gt;">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="&lt;9&gt;" target="&lt;6AB&gt;">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="&lt;7B&gt;" target="&lt;46&gt;">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="&lt;7B&gt;" target="&lt;7B&gt;">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="&lt;7B&gt;" target="&lt;7&gt;">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="&lt;5&gt;" target="&lt;46&gt;">
+      <data key="d0">40</data>
+    </edge>
+    <edge source="&lt;5&gt;" target="&lt;67B&gt;">
+      <data key="d0">27</data>
+    </edge>
+    <edge source="&lt;5&gt;" target="&lt;59&gt;">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="&lt;5&gt;" target="&lt;567B&gt;">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="&lt;56B&gt;" target="&lt;59&gt;">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="&lt;56B&gt;" target="&lt;5&gt;">
+      <data key="d0">28</data>
+    </edge>
+    <edge source="&lt;7&gt;" target="&lt;46&gt;">
+      <data key="d0">40</data>
+    </edge>
+    <edge source="&lt;7&gt;" target="&lt;7B&gt;">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="&lt;6AB&gt;" target="&lt;A&gt;">
+      <data key="d0">29</data>
+    </edge>
+    <edge source="&lt;6AB&gt;" target="&lt;2A&gt;">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="&lt;6B&gt;" target="&lt;56B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;0568B&gt;" target="&lt;56B&gt;">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="&lt;4569&gt;" target="&lt;03&gt;">
+      <data key="d0">20</data>
+    </edge>
+  </graph>
+</graphml>
